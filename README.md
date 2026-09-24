@@ -2,7 +2,7 @@
 
 A calm space for tasks, habits, and deep work.
 
-**Live demo:** https://effixience.ameyarsharma.workers.dev
+**Live demo:** (https://ammax11-sketch.github.io/Effixience/)
 
 ### Features
 - Tasks with priorities and filters
